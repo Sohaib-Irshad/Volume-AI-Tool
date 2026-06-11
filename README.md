@@ -160,3 +160,5 @@ Install with: `pip install -r requirements.txt`
 ## License
 
 Free for educational use.
+## Note
+Developed as a university group project at FAST-NU. Contributed to parts of the implementation and testing.
